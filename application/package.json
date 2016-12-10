@@ -1,0 +1,24 @@
+{
+  "name": "hello_world",
+  "version": "1.0.0",
+  "description": "hello world inside docker ",
+  "main": "app.js",
+  "scripts": {
+    "start":"node ./app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gouravnema/node_docker.git"
+  },
+  "keywords": [
+    "node",
+    "docker"
+  ],
+  "author": "Gourav Nema",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gouravnema/node_docker/issues"
+  },
+  "homepage": "https://github.com/gouravnema/node_docker#readme"
+}
